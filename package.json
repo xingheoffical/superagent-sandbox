@@ -1,0 +1,10 @@
+{
+  "name": "slug-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Tiny URL slug helper used as a sandbox for the superagent prototype.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
